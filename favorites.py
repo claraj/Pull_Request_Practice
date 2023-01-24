@@ -4,7 +4,7 @@
 
 favorite_color = 'Cornflower Blue #6495ED!'
 print(f'One of ITEC 2905s favorite colors is {favorite_color}')
-
+# James Nguyen was assigned this.
 
 # 2. Favorite Food
 

@@ -12,10 +12,16 @@ favorite_food = ''
 print(f'One of ITEC 2905s favorite foods is {favorite_food}')
 
 
+
+
+
 # 3. Favorite Movie or TV Show
 
 favorite_movie = ''
 print(f'One of ITEC 2905s favorite movies is {favorite_movie}')
+answer = ["lion king" , "Avatar"]
+print(answer)
+
 
 
 ## 4. Favorite Music

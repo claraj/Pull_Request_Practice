@@ -19,8 +19,7 @@ print(f'One of ITEC 2905s favorite foods is {favorite_food}')
 
 favorite_movie = ''
 print(f'One of ITEC 2905s favorite movies is {favorite_movie}')
-answer = ["lion king" , "Avatar"]
-print(answer)
+
 
 
 

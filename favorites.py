@@ -2,7 +2,7 @@
 
 # 1. Favorite Color
 
-favorite_color = ''
+favorite_color = 'Cornflower Blue #6495ED!'
 print(f'One of ITEC 2905s favorite colors is {favorite_color}')
 
 

@@ -97,5 +97,5 @@ print(f'One of ITEC 2905s favorite seasons is {favorite_season}')
 
 ## 17. Favorite Plant, Tree or Flower
 
-favorite_plant = ''
+favorite_plant = 'Oak Tree'
 print(f'One of ITEC 2905s favorite plants is {favorite_plant}')
